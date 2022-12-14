@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenneth-Kipchumba
-- 👀 I love in Technology
+- 👀 I love Technology
 - 🌱 I’m currently building web applications 
-- 💞️ I’m looking to collaborate on opensource softwares
+- 💞️ I’m looking foward to start collaborating in building opensource softwares
 - 📫 Find more about me on my [website](https://kennethkipchumba.com/) or on my [twitter handle](https://twitter.com/kipchumba_dev)
 
 <!---
