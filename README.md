@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kenneth-Kipchumba
-- 👀 I love Technology
+- 👀 I love Technology and can as well dance Salsa, Bachata and Kizomba.
 - 🌱 I’m currently building web applications 
 - 💞️ I’m looking foward to start collaborating in building opensource softwares
 - 📫 Find more about me on my [website](https://kennethkipchumba.com/) or on my [twitter handle](https://twitter.com/kipchumba_dev)
